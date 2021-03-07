@@ -1,0 +1,1198 @@
+{
+    "manifest": {
+        "_attributes": {
+            "xmlns": "http://www.imsglobal.org/xsd/imsccv1p3/imscp_v1p1",
+            "xmlns:cpx": "http://www.imsglobal.org/xsd/imsccv1p3/imscp_extensionv1p2",
+            "xmlns:lom": "http://ltsc.ieee.org/xsd/imsccv1p3/LOM/resource",
+            "xmlns:lomimscc": "http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest",
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "identifier": "veeb4de1-bff6-3cfa-8205-356354f0daf8",
+            "xsi:schemaLocation": "http://ltsc.ieee.org/xsd/imsccv1p3/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p3/LOM/ccv1p3_lomresource_v1p0.xsd http://www.imsglobal.org/xsd/imsccv1p3/imscp_extensionv1p2 http://www.imsglobal.org/profile/cc/ccv1p3/ccv1p3_cpextensionv1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p3/LOM/ccv1p3_lommanifest_v1p0.xsd http://www.imsglobal.org/xsd/imsccv1p3/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p3/ccv1p3_imscp_v1p2_v1p0.xsd"
+        },
+        "metadata": {
+            "schema": {
+                "_text": "IMS Common Cartridge"
+            },
+            "schemaversion": {
+                "_text": "1.3.0"
+            },
+            "lomimscc:lom": {
+                "lomimscc:general": {
+                    "lomimscc:title": {
+                        "lomimscc:string": {
+                            "_text": "Traian's Course"
+                        }
+                    },
+                    "lomimscc:identifier": {
+                        "lomimscc:catalog": {
+                            "_text": "ISBN"
+                        },
+                        "lomimscc:entry": {}
+                    },
+                    "lomimscc:description": {
+                        "lomimscc:string": {
+                            "_attributes": {
+                                "language": "en-UK"
+                            }
+                        }
+                    }
+                },
+                "lomimscc:classification": [
+                    {
+                        "lomimscc:purpose": {
+                            "lomimscc:source": {
+                                "_text": "LOMv1.0"
+                            },
+                            "lomimscc:value": {
+                                "_text": "prerequisite"
+                            }
+                        },
+                        "lomimscc:taxonPath": {
+                            "lomimscc:taxon": [
+                                {
+                                    "lomimscc:id": {
+                                        "_text": "Short Title"
+                                    },
+                                    "lomimscc:entry": {
+                                        "lomimscc:string": {}
+                                    }
+                                },
+                                {
+                                    "lomimscc:id": {
+                                        "_text": "Theme Color Accent 1"
+                                    },
+                                    "lomimscc:entry": {
+                                        "lomimscc:string": {}
+                                    }
+                                },
+                                {
+                                    "lomimscc:id": {
+                                        "_text": "Theme Color Accent 2"
+                                    },
+                                    "lomimscc:entry": {
+                                        "lomimscc:string": {}
+                                    }
+                                },
+                                {
+                                    "lomimscc:id": {
+                                        "_text": "Text Color"
+                                    },
+                                    "lomimscc:entry": {
+                                        "lomimscc:string": {
+                                            "_text": "Dark"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "lomimscc:purpose": {
+                            "lomimscc:source": {
+                                "_text": "LOMv1.0"
+                            },
+                            "lomimscc:value": {
+                                "_text": "prerequisite"
+                            }
+                        },
+                        "lomimscc:taxonPath": {
+                            "lomimscc:taxon": [
+                                {
+                                    "lomimscc:id": {
+                                        "_text": "ELT Level"
+                                    },
+                                    "lomimscc:entry": {
+                                        "lomimscc:string": {
+                                            "_text": "Upper-Intermediate"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "lomimscc:rights": {
+                    "lomimscc:copyrightAndOtherRestrictions": {
+                        "lomimscc:source": {
+                            "_text": "LOMv1.0"
+                        },
+                        "lomimscc:value": {
+                            "_text": "yes"
+                        }
+                    },
+                    "lomimscc:description": {
+                        "lomimscc:string": {
+                            "_text": "2006-2007 IMS Global Learning Consortium Inc."
+                        }
+                    }
+                }
+            }
+        },
+        "organizations": {
+            "organization": {
+                "_attributes": {
+                    "identifier": "p39efc45-5e44-3c1f-bd81-81c59fcb61f5",
+                    "structure": "rooted-hierarchy"
+                },
+                "title": {},
+                "item": [
+                    {
+                        "_attributes": {
+                            "identifier": "m1d2f3da-88ef-300e-87c7-3cc181fd50d0"
+                        },
+                        "item": [
+                            {
+                                "_attributes": {
+                                    "identifier": "gb0140e2-881b-38fe-93b7-1b6cffda4885"
+                                },
+                                "title": {
+                                    "_cdata": "Traian's Course"
+                                },
+                                "item": [
+                                    {
+                                        "_attributes": {
+                                            "identifier": "c5d89f78-1f5a-3895-a74b-510d5a6a145e"
+                                        },
+                                        "title": {
+                                            "_cdata": "Products"
+                                        },
+                                        "item": [
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "h71e811c-3e45-3f5d-ba63-7293b0c66166"
+                                                },
+                                                "title": {
+                                                    "_cdata": "NEW HEADWAY PL ELEM SB"
+                                                },
+                                                "metadata": [
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "NEW HEADWAY PL ELEM SB"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771870"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    },
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "NEW HEADWAY PL ELEM SB"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771870"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "b4238bf5-12f2-3332-abc0-acc6fd06854c"
+                                                },
+                                                "title": {
+                                                    "_cdata": "NEW HEADWAY PL ELEM WB+K"
+                                                },
+                                                "metadata": [
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "NEW HEADWAY PL ELEM WB+K"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771887"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    },
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "NEW HEADWAY PL ELEM WB+K"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771887"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "p278ea4b-e7dd-39b4-aa2d-87fd99115f9f"
+                                                },
+                                                "title": {
+                                                    "_cdata": "New Headway Plus Beginner Student Book"
+                                                },
+                                                "metadata": [
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "New Headway Plus Beginner Student Book"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771849"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    },
+                                                    {
+                                                        "lom:lom": {
+                                                            "lom:general": {
+                                                                "lom:title": {
+                                                                    "lom:string": {
+                                                                        "_text": "New Headway Plus Beginner Student Book"
+                                                                    }
+                                                                },
+                                                                "lom:identifier": {
+                                                                    "lom:catalog": {
+                                                                        "_text": "ISBN"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "_text": "9780194771849"
+                                                                    }
+                                                                },
+                                                                "lom:description": {
+                                                                    "lom:string": {
+                                                                        "_attributes": {
+                                                                            "language": "en-UK"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "lom:classification": [
+                                                                {
+                                                                    "lom:purpose": {
+                                                                        "lom:source": {
+                                                                            "_text": "LOMv1.0"
+                                                                        },
+                                                                        "lom:value": {
+                                                                            "_text": "prerequisite"
+                                                                        }
+                                                                    },
+                                                                    "lom:taxonPath": {
+                                                                        "lom:taxon": [
+                                                                            {
+                                                                                "lom:id": {
+                                                                                    "_text": "Short Title"
+                                                                                },
+                                                                                "lom:entry": {
+                                                                                    "lom:string": {}
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "metadata": {
+                                            "lom:lom": {
+                                                "lom:general": {
+                                                    "lom:title": {
+                                                        "lom:string": {
+                                                            "_text": "Products"
+                                                        }
+                                                    },
+                                                    "lom:identifier": {
+                                                        "lom:catalog": {
+                                                            "_text": "ISBN"
+                                                        },
+                                                        "lom:entry": {}
+                                                    },
+                                                    "lom:description": {
+                                                        "lom:string": {
+                                                            "_attributes": {
+                                                                "language": "en-UK"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "lom:classification": [
+                                                    {
+                                                        "lom:purpose": {
+                                                            "lom:source": {
+                                                                "_text": "LOMv1.0"
+                                                            },
+                                                            "lom:value": {
+                                                                "_text": "prerequisite"
+                                                            }
+                                                        },
+                                                        "lom:taxonPath": {
+                                                            "lom:taxon": [
+                                                                {
+                                                                    "lom:id": {
+                                                                        "_text": "Short Title"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "lom:string": {}
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "_attributes": {
+                                            "identifier": "d2942f91-5d5b-36ec-a6a6-8dcc84ad0df1"
+                                        },
+                                        "title": {
+                                            "_cdata": "Resources"
+                                        },
+                                        "item": [
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "idf8741d-3a1b-30b4-b186-bcc9a4674db1"
+                                                },
+                                                "title": {
+                                                    "_cdata": "Video and Worksheets"
+                                                },
+                                                "item": [
+                                                    {
+                                                        "_attributes": {
+                                                            "identifier": "dd99bb15-5e33-3ad0-a201-8b17caf15a09",
+                                                            "identifierref": "zndgdec5f7e9d866b30f084039ab5505"
+                                                        },
+                                                        "title": {
+                                                            "_cdata": "Video No. 1"
+                                                        },
+                                                        "metadata": {
+                                                            "lom:lom": {
+                                                                "lom:general": {
+                                                                    "lom:title": {
+                                                                        "lom:string": {
+                                                                            "_text": "Video No. 1"
+                                                                        }
+                                                                    },
+                                                                    "lom:identifier": {
+                                                                        "lom:catalog": {
+                                                                            "_text": "ISBN"
+                                                                        },
+                                                                        "lom:entry": {}
+                                                                    },
+                                                                    "lom:description": {
+                                                                        "lom:string": {
+                                                                            "_attributes": {
+                                                                                "language": "en-UK"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "lom:classification": [
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Short Title"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {}
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Resource Type"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {
+                                                                                            "_text": "Video"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "competency"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": [
+                                                                            {
+                                                                                "lom:source": {
+                                                                                    "lom:string": {
+                                                                                        "_text": "taxonomyy taxonomyy"
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "lom:source": {
+                                                                                    "lom:string": {
+                                                                                        "_text": "000000 new taxonomy"
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "_attributes": {
+                                                            "identifier": "l2933e9e-bf2e-33bd-a6ad-99906058ebf2",
+                                                            "identifierref": "vlmwe968d15ecd71951abf53a331539a"
+                                                        },
+                                                        "title": {
+                                                            "_cdata": "Video No. 2"
+                                                        },
+                                                        "metadata": {
+                                                            "lom:lom": {
+                                                                "lom:general": {
+                                                                    "lom:title": {
+                                                                        "lom:string": {
+                                                                            "_text": "Video No. 2"
+                                                                        }
+                                                                    },
+                                                                    "lom:identifier": {
+                                                                        "lom:catalog": {
+                                                                            "_text": "ISBN"
+                                                                        },
+                                                                        "lom:entry": {}
+                                                                    },
+                                                                    "lom:description": {
+                                                                        "lom:string": {
+                                                                            "_attributes": {
+                                                                                "language": "en-UK"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "lom:classification": [
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Short Title"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {}
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "metadata": {
+                                                    "lom:lom": {
+                                                        "lom:general": {
+                                                            "lom:title": {
+                                                                "lom:string": {
+                                                                    "_text": "Video and Worksheets"
+                                                                }
+                                                            },
+                                                            "lom:identifier": {
+                                                                "lom:catalog": {
+                                                                    "_text": "ISBN"
+                                                                },
+                                                                "lom:entry": {}
+                                                            },
+                                                            "lom:description": {
+                                                                "lom:string": {
+                                                                    "_attributes": {
+                                                                        "language": "en-UK"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "lom:classification": [
+                                                            {
+                                                                "lom:purpose": {
+                                                                    "lom:source": {
+                                                                        "_text": "LOMv1.0"
+                                                                    },
+                                                                    "lom:value": {
+                                                                        "_text": "prerequisite"
+                                                                    }
+                                                                },
+                                                                "lom:taxonPath": {
+                                                                    "lom:taxon": [
+                                                                        {
+                                                                            "lom:id": {
+                                                                                "_text": "Short Title"
+                                                                            },
+                                                                            "lom:entry": {
+                                                                                "lom:string": {}
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "c36f54e6-4065-31d8-a9a7-e72206bead91"
+                                                },
+                                                "title": {
+                                                    "_cdata": "Student's Audio Book"
+                                                },
+                                                "item": [
+                                                    {
+                                                        "_attributes": {
+                                                            "identifier": "n6aeae8f-182c-3ea2-879d-cb8a29a48f6d",
+                                                            "identifierref": "clie14f901d42d6d8fe62b5bdc58b0aa"
+                                                        },
+                                                        "title": {
+                                                            "_cdata": "Audio No. 1"
+                                                        },
+                                                        "metadata": {
+                                                            "lom:lom": {
+                                                                "lom:general": {
+                                                                    "lom:title": {
+                                                                        "lom:string": {
+                                                                            "_text": "Audio No. 1"
+                                                                        }
+                                                                    },
+                                                                    "lom:identifier": {
+                                                                        "lom:catalog": {
+                                                                            "_text": "ISBN"
+                                                                        },
+                                                                        "lom:entry": {}
+                                                                    },
+                                                                    "lom:description": {
+                                                                        "lom:string": {
+                                                                            "_attributes": {
+                                                                                "language": "en-UK"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "lom:classification": [
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Short Title"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {}
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Resource Type"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {
+                                                                                            "_text": "Audio"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "_attributes": {
+                                                            "identifier": "aad1f33d-1b89-371f-8aa5-cebce454d0b0",
+                                                            "identifierref": "vpxi14c38b6f0d1925786f7bc447bf7e"
+                                                        },
+                                                        "title": {
+                                                            "_cdata": "Audio No. 2"
+                                                        },
+                                                        "metadata": {
+                                                            "lom:lom": {
+                                                                "lom:general": {
+                                                                    "lom:title": {
+                                                                        "lom:string": {
+                                                                            "_text": "Audio No. 2"
+                                                                        }
+                                                                    },
+                                                                    "lom:identifier": {
+                                                                        "lom:catalog": {
+                                                                            "_text": "ISBN"
+                                                                        },
+                                                                        "lom:entry": {}
+                                                                    },
+                                                                    "lom:description": {
+                                                                        "lom:string": {
+                                                                            "_attributes": {
+                                                                                "language": "en-UK"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "lom:classification": [
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Short Title"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {}
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "lom:purpose": {
+                                                                            "lom:source": {
+                                                                                "_text": "LOMv1.0"
+                                                                            },
+                                                                            "lom:value": {
+                                                                                "_text": "prerequisite"
+                                                                            }
+                                                                        },
+                                                                        "lom:taxonPath": {
+                                                                            "lom:taxon": [
+                                                                                {
+                                                                                    "lom:id": {
+                                                                                        "_text": "Resource Type"
+                                                                                    },
+                                                                                    "lom:entry": {
+                                                                                        "lom:string": {
+                                                                                            "_text": "Audio"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "metadata": {
+                                                    "lom:lom": {
+                                                        "lom:general": {
+                                                            "lom:title": {
+                                                                "lom:string": {
+                                                                    "_text": "Student's Audio Book"
+                                                                }
+                                                            },
+                                                            "lom:identifier": {
+                                                                "lom:catalog": {
+                                                                    "_text": "ISBN"
+                                                                },
+                                                                "lom:entry": {}
+                                                            },
+                                                            "lom:description": {
+                                                                "lom:string": {
+                                                                    "_attributes": {
+                                                                        "language": "en-UK"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "lom:classification": [
+                                                            {
+                                                                "lom:purpose": {
+                                                                    "lom:source": {
+                                                                        "_text": "LOMv1.0"
+                                                                    },
+                                                                    "lom:value": {
+                                                                        "_text": "prerequisite"
+                                                                    }
+                                                                },
+                                                                "lom:taxonPath": {
+                                                                    "lom:taxon": [
+                                                                        {
+                                                                            "lom:id": {
+                                                                                "_text": "Short Title"
+                                                                            },
+                                                                            "lom:entry": {
+                                                                                "lom:string": {}
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "_attributes": {
+                                                    "identifier": "eec66b52-f8db-3965-a1a6-7ad3746922d2",
+                                                    "identifierref": "ucpk4f3d822e520f1e1c8c507fc2151b"
+                                                },
+                                                "title": {
+                                                    "_cdata": "Audio No. 3"
+                                                },
+                                                "metadata": {
+                                                    "lom:lom": {
+                                                        "lom:general": {
+                                                            "lom:title": {
+                                                                "lom:string": {
+                                                                    "_text": "Audio No. 3"
+                                                                }
+                                                            },
+                                                            "lom:identifier": {
+                                                                "lom:catalog": {
+                                                                    "_text": "ISBN"
+                                                                },
+                                                                "lom:entry": {}
+                                                            },
+                                                            "lom:description": {
+                                                                "lom:string": {
+                                                                    "_attributes": {
+                                                                        "language": "en-UK"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "lom:classification": [
+                                                            {
+                                                                "lom:purpose": {
+                                                                    "lom:source": {
+                                                                        "_text": "LOMv1.0"
+                                                                    },
+                                                                    "lom:value": {
+                                                                        "_text": "prerequisite"
+                                                                    }
+                                                                },
+                                                                "lom:taxonPath": {
+                                                                    "lom:taxon": [
+                                                                        {
+                                                                            "lom:id": {
+                                                                                "_text": "Short Title"
+                                                                            },
+                                                                            "lom:entry": {
+                                                                                "lom:string": {}
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "lom:purpose": {
+                                                                    "lom:source": {
+                                                                        "_text": "LOMv1.0"
+                                                                    },
+                                                                    "lom:value": {
+                                                                        "_text": "prerequisite"
+                                                                    }
+                                                                },
+                                                                "lom:taxonPath": {
+                                                                    "lom:taxon": [
+                                                                        {
+                                                                            "lom:id": {
+                                                                                "_text": "Content Access Level"
+                                                                            },
+                                                                            "lom:entry": {
+                                                                                "lom:string": {
+                                                                                    "_text": "high-stakes"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "lom:id": {
+                                                                                "_text": "Resource Type"
+                                                                            },
+                                                                            "lom:entry": {
+                                                                                "lom:string": {
+                                                                                    "_text": "Audio"
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "metadata": {
+                                            "lom:lom": {
+                                                "lom:general": {
+                                                    "lom:title": {
+                                                        "lom:string": {
+                                                            "_text": "Resources"
+                                                        }
+                                                    },
+                                                    "lom:identifier": {
+                                                        "lom:catalog": {
+                                                            "_text": "ISBN"
+                                                        },
+                                                        "lom:entry": {}
+                                                    },
+                                                    "lom:description": {
+                                                        "lom:string": {
+                                                            "_attributes": {
+                                                                "language": "en-UK"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "lom:classification": [
+                                                    {
+                                                        "lom:purpose": {
+                                                            "lom:source": {
+                                                                "_text": "LOMv1.0"
+                                                            },
+                                                            "lom:value": {
+                                                                "_text": "prerequisite"
+                                                            }
+                                                        },
+                                                        "lom:taxonPath": {
+                                                            "lom:taxon": [
+                                                                {
+                                                                    "lom:id": {
+                                                                        "_text": "Short Title"
+                                                                    },
+                                                                    "lom:entry": {
+                                                                        "lom:string": {}
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "resources": {
+            "resource": [
+                {
+                    "_attributes": {
+                        "identifier": "zndgdec5f7e9d866b30f084039ab5505",
+                        "type": "imsbasiclti_xmlv1p0"
+                    },
+                    "file": {
+                        "_attributes": {
+                            "href": "web_resources/zndgdec5f7e9d866b30f084039ab5505.xml"
+                        }
+                    }
+                },
+                {
+                    "_attributes": {
+                        "identifier": "vlmwe968d15ecd71951abf53a331539a",
+                        "type": "imsbasiclti_xmlv1p0"
+                    },
+                    "file": {
+                        "_attributes": {
+                            "href": "web_resources/vlmwe968d15ecd71951abf53a331539a.xml"
+                        }
+                    }
+                },
+                {
+                    "_attributes": {
+                        "identifier": "clie14f901d42d6d8fe62b5bdc58b0aa",
+                        "type": "imsbasiclti_xmlv1p0"
+                    },
+                    "file": {
+                        "_attributes": {
+                            "href": "web_resources/clie14f901d42d6d8fe62b5bdc58b0aa.xml"
+                        }
+                    }
+                },
+                {
+                    "_attributes": {
+                        "identifier": "vpxi14c38b6f0d1925786f7bc447bf7e",
+                        "type": "imsbasiclti_xmlv1p0"
+                    },
+                    "file": {
+                        "_attributes": {
+                            "href": "web_resources/vpxi14c38b6f0d1925786f7bc447bf7e.xml"
+                        }
+                    }
+                },
+                {
+                    "_attributes": {
+                        "identifier": "ucpk4f3d822e520f1e1c8c507fc2151b",
+                        "type": "imsbasiclti_xmlv1p0"
+                    },
+                    "file": {
+                        "_attributes": {
+                            "href": "web_resources/ucpk4f3d822e520f1e1c8c507fc2151b.xml"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

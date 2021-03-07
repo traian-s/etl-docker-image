@@ -1,0 +1,92 @@
+{
+    "title": "Traian's Course",
+    "resources": {
+        "54178b47e67fe7f50c3e9c78b32b1948": {
+            "resourceId": "54178b47e67fe7f50c3e9c78b32b1948",
+            "title": "Video No. 1",
+            "identifier": "zndgdec5f7e9d866b30f084039ab5505",
+            "resourceType": "Video",
+            "keywords": [],
+            "taxonomies": []
+        },
+        "777baf921495895ab8517dd11623c658": {
+            "resourceId": "777baf921495895ab8517dd11623c658",
+            "title": "Video No. 2",
+            "identifier": "vlmwe968d15ecd71951abf53a331539a",
+            "keywords": [],
+            "taxonomies": []
+        },
+        "e4a4d4f4d58a59e3009d8d7e7809d32f": {
+            "resourceId": "e4a4d4f4d58a59e3009d8d7e7809d32f",
+            "title": "Audio No. 1",
+            "identifier": "clie14f901d42d6d8fe62b5bdc58b0aa",
+            "resourceType": "Audio",
+            "keywords": [],
+            "taxonomies": []
+        },
+        "a85aca21dfc915dbb378275c5a08fb56": {
+            "resourceId": "a85aca21dfc915dbb378275c5a08fb56",
+            "title": "Audio No. 2",
+            "identifier": "vpxi14c38b6f0d1925786f7bc447bf7e",
+            "resourceType": "Audio",
+            "keywords": [],
+            "taxonomies": []
+        },
+        "d358e5d83cd16f3b34a1c18ffd93ec6d": {
+            "resourceId": "d358e5d83cd16f3b34a1c18ffd93ec6d",
+            "title": "Audio No. 3",
+            "identifier": "ucpk4f3d822e520f1e1c8c507fc2151b",
+            "contentAccessLevel": "high-stakes",
+            "resourceType": "Audio",
+            "keywords": [],
+            "taxonomies": []
+        },
+        "687146382941d4c3c24afc7f658f7a8c": {
+            "resourceId": "687146382941d4c3c24afc7f658f7a8c",
+            "title": "Test Document No. 1",
+            "identifier": "creq9303652d753adeda0b04fe442334",
+            "resourceType": "Document",
+            "keywords": [],
+            "taxonomies": []
+        }
+    },
+    "resourceFolders": {
+        "resources": {
+            "videoAndWorksheets": {
+                "title": "Video and Worksheets",
+                "resources": [
+                    "54178b47e67fe7f50c3e9c78b32b1948",
+                    "777baf921495895ab8517dd11623c658"
+                ]
+            },
+            "studentsAudioBook": {
+                "title": "Student's Audio Book",
+                "resources": [
+                    "e4a4d4f4d58a59e3009d8d7e7809d32f",
+                    "a85aca21dfc915dbb378275c5a08fb56"
+                ]
+            },
+            "uncategorized": {
+                "title": "Other Resources",
+                "resources": [
+                    "d358e5d83cd16f3b34a1c18ffd93ec6d"
+                ]
+            }
+        },
+        "tests": {
+            "uncategorized": {
+                "title": "Other Resources",
+                "resources": [
+                    "687146382941d4c3c24afc7f658f7a8c"
+                ]
+            }
+        }
+    },
+    "products": {
+        "isbns": [
+            "9780194771870",
+            "9780194771887",
+            "9780194771849"
+        ]
+    }
+}

@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscp_v1p1" xmlns:cpx="http://www.imsglobal.org/xsd/imsccv1p3/imscp_extensionv1p2" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="veeb4de1-bff6-3cfa-8205-356354f0daf8" xsi:schemaLocation="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p3/LOM/ccv1p3_lomresource_v1p0.xsd http://www.imsglobal.org/xsd/imsccv1p3/imscp_extensionv1p2 http://www.imsglobal.org/profile/cc/ccv1p3/ccv1p3_cpextensionv1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p3/LOM/ccv1p3_lommanifest_v1p0.xsd http://www.imsglobal.org/xsd/imsccv1p3/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p3/ccv1p3_imscp_v1p2_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.3.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>Traian's Course</lomimscc:string>
+        </lomimscc:title>
+        <lomimscc:identifier>
+          <lomimscc:catalog>ISBN</lomimscc:catalog>
+          <lomimscc:entry></lomimscc:entry>
+        </lomimscc:identifier>
+        <lomimscc:description>
+          <lomimscc:string language="en-UK"></lomimscc:string>
+        </lomimscc:description>
+        <lomimscc:keyword>
+          <lomimscc:string language="en-UK">Aardvark</lomimscc:string>
+          <lomimscc:string language="en-UK">Abies</lomimscc:string>
+        </lomimscc:keyword>
+      </lomimscc:general>
+      <lomimscc:classification>
+        <lomimscc:purpose>
+          <lomimscc:source>LOMv1.0</lomimscc:source>
+          <lomimscc:value>prerequisite</lomimscc:value>
+        </lomimscc:purpose>
+        <lomimscc:taxonPath>
+          <lomimscc:taxon>
+            <lomimscc:id>Short Title</lomimscc:id>
+            <lomimscc:entry>
+              <lomimscc:string></lomimscc:string>
+            </lomimscc:entry>
+          </lomimscc:taxon>
+          <lomimscc:taxon>
+            <lomimscc:id>Theme Color Accent 1</lomimscc:id>
+            <lomimscc:entry>
+              <lomimscc:string></lomimscc:string>
+            </lomimscc:entry>
+          </lomimscc:taxon>
+          <lomimscc:taxon>
+            <lomimscc:id>Theme Color Accent 2</lomimscc:id>
+            <lomimscc:entry>
+              <lomimscc:string></lomimscc:string>
+            </lomimscc:entry>
+          </lomimscc:taxon>
+          <lomimscc:taxon>
+            <lomimscc:id>Text Color</lomimscc:id>
+            <lomimscc:entry>
+              <lomimscc:string>Dark</lomimscc:string>
+            </lomimscc:entry>
+          </lomimscc:taxon>
+        </lomimscc:taxonPath>
+      </lomimscc:classification>
+      <lomimscc:classification>
+        <lomimscc:purpose>
+          <lomimscc:source>LOMv1.0</lomimscc:source>
+          <lomimscc:value>prerequisite</lomimscc:value>
+        </lomimscc:purpose>
+        <lomimscc:taxonPath>
+          <lomimscc:taxon>
+            <lomimscc:id>ELT Level</lomimscc:id>
+            <lomimscc:entry>
+              <lomimscc:string>Upper-Intermediate</lomimscc:string>
+            </lomimscc:entry>
+          </lomimscc:taxon>
+        </lomimscc:taxonPath>
+      </lomimscc:classification>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:source>LOMv1.0</lomimscc:source>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>2006-2007 IMS Global Learning Consortium Inc.</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="dda052c5-693a-3568-a3ea-4610b4a57e44" structure="rooted-hierarchy">
+      <title></title>
+      <item identifier="wd2b59e8-eb3b-32f6-9698-b8123aaf76cc">
+        <item identifier="u38dd03e-7192-3bba-9392-b52544ea04ae">
+          <title><![CDATA[Traian's Course]]></title>
+          <item identifier="sd368bcb-5028-308c-88c3-dc4544a3036b">
+            <title><![CDATA[Products]]></title>
+            <item identifier="fd4719d4-164b-39e1-9080-57130659c900">
+              <title><![CDATA[NEW HEADWAY PL ELEM SB]]></title>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>NEW HEADWAY PL ELEM SB</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771870</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>NEW HEADWAY PL ELEM SB</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771870</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <item identifier="r581e923-344f-3d1e-bb8e-16ecdd88f7bf">
+              <title><![CDATA[NEW HEADWAY PL ELEM WB+K]]></title>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>NEW HEADWAY PL ELEM WB+K</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771887</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>NEW HEADWAY PL ELEM WB+K</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771887</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <item identifier="p871b359-72ce-3f38-9b1a-1364babfae8f">
+              <title><![CDATA[New Headway Plus Beginner Student Book]]></title>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>New Headway Plus Beginner Student Book</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771849</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>New Headway Plus Beginner Student Book</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry>9780194771849</lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <metadata>
+              <lom:lom>
+                <lom:general>
+                  <lom:title>
+                    <lom:string>Products</lom:string>
+                  </lom:title>
+                  <lom:identifier>
+                    <lom:catalog>ISBN</lom:catalog>
+                    <lom:entry></lom:entry>
+                  </lom:identifier>
+                  <lom:description>
+                    <lom:string language="en-UK"></lom:string>
+                  </lom:description>
+                </lom:general>
+                <lom:classification>
+                  <lom:purpose>
+                    <lom:source>LOMv1.0</lom:source>
+                    <lom:value>prerequisite</lom:value>
+                  </lom:purpose>
+                  <lom:taxonPath>
+                    <lom:taxon>
+                      <lom:id>Short Title</lom:id>
+                      <lom:entry>
+                        <lom:string></lom:string>
+                      </lom:entry>
+                    </lom:taxon>
+                  </lom:taxonPath>
+                </lom:classification>
+              </lom:lom>
+            </metadata>
+          </item>
+          <item identifier="v057d8b4-e6d6-3f15-a8ab-c1757c27b8b9">
+            <title><![CDATA[Resources]]></title>
+            <item identifier="n2693c09-f5f8-34a6-8fad-17ec726b324f">
+              <title><![CDATA[Video and Worksheets]]></title>
+              <item identifier="pc3cb2bb-dabd-3faa-9d62-702716bb530e" identifierref="zndgdec5f7e9d866b30f084039ab5505">
+                <title><![CDATA[Video No. 1]]></title>
+                <metadata>
+                  <lom:lom>
+                    <lom:general>
+                      <lom:title>
+                        <lom:string>Video No. 1</lom:string>
+                      </lom:title>
+                      <lom:identifier>
+                        <lom:catalog>ISBN</lom:catalog>
+                        <lom:entry></lom:entry>
+                      </lom:identifier>
+                      <lom:description>
+                        <lom:string language="en-UK"></lom:string>
+                      </lom:description>
+                    </lom:general>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Short Title</lom:id>
+                          <lom:entry>
+                            <lom:string></lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Resource Type</lom:id>
+                          <lom:entry>
+                            <lom:string>Video</lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                  </lom:lom>
+                </metadata>
+              </item>
+              <item identifier="wb7c6a61-d01f-3575-869d-4a4fc915c45f" identifierref="vlmwe968d15ecd71951abf53a331539a">
+                <title><![CDATA[Video No. 2]]></title>
+                <metadata>
+                  <lom:lom>
+                    <lom:general>
+                      <lom:title>
+                        <lom:string>Video No. 2</lom:string>
+                      </lom:title>
+                      <lom:identifier>
+                        <lom:catalog>ISBN</lom:catalog>
+                        <lom:entry></lom:entry>
+                      </lom:identifier>
+                      <lom:description>
+                        <lom:string language="en-UK"></lom:string>
+                      </lom:description>
+                    </lom:general>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Short Title</lom:id>
+                          <lom:entry>
+                            <lom:string></lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                  </lom:lom>
+                </metadata>
+              </item>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>Video and Worksheets</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry></lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <item identifier="t2c4f6e7-e5fa-30f7-b8c6-bfafff4329bd">
+              <title><![CDATA[Student's Audio Book]]></title>
+              <item identifier="a118830d-d73d-344d-a722-48338d37fb85" identifierref="clie14f901d42d6d8fe62b5bdc58b0aa">
+                <title><![CDATA[Audio No. 1]]></title>
+                <metadata>
+                  <lom:lom>
+                    <lom:general>
+                      <lom:title>
+                        <lom:string>Audio No. 1</lom:string>
+                      </lom:title>
+                      <lom:identifier>
+                        <lom:catalog>ISBN</lom:catalog>
+                        <lom:entry></lom:entry>
+                      </lom:identifier>
+                      <lom:description>
+                        <lom:string language="en-UK"></lom:string>
+                      </lom:description>
+                    </lom:general>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Short Title</lom:id>
+                          <lom:entry>
+                            <lom:string></lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Resource Type</lom:id>
+                          <lom:entry>
+                            <lom:string>Audio</lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                  </lom:lom>
+                </metadata>
+              </item>
+              <item identifier="aeb479a8-7da6-3674-b1b7-ad1c199365d5" identifierref="vpxi14c38b6f0d1925786f7bc447bf7e">
+                <title><![CDATA[Audio No. 2]]></title>
+                <metadata>
+                  <lom:lom>
+                    <lom:general>
+                      <lom:title>
+                        <lom:string>Audio No. 2</lom:string>
+                      </lom:title>
+                      <lom:identifier>
+                        <lom:catalog>ISBN</lom:catalog>
+                        <lom:entry></lom:entry>
+                      </lom:identifier>
+                      <lom:description>
+                        <lom:string language="en-UK"></lom:string>
+                      </lom:description>
+                    </lom:general>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Short Title</lom:id>
+                          <lom:entry>
+                            <lom:string></lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                    <lom:classification>
+                      <lom:purpose>
+                        <lom:source>LOMv1.0</lom:source>
+                        <lom:value>prerequisite</lom:value>
+                      </lom:purpose>
+                      <lom:taxonPath>
+                        <lom:taxon>
+                          <lom:id>Resource Type</lom:id>
+                          <lom:entry>
+                            <lom:string>Audio</lom:string>
+                          </lom:entry>
+                        </lom:taxon>
+                      </lom:taxonPath>
+                    </lom:classification>
+                  </lom:lom>
+                </metadata>
+              </item>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>Student's Audio Book</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry></lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <item identifier="ea077fc3-262b-37e7-84ad-a44d2f1a55a5" identifierref="ucpk4f3d822e520f1e1c8c507fc2151b">
+              <title><![CDATA[Audio No. 3]]></title>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>Audio No. 3</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry></lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Content Access Level</lom:id>
+                        <lom:entry>
+                          <lom:string>high-stakes</lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                      <lom:taxon>
+                        <lom:id>Resource Type</lom:id>
+                        <lom:entry>
+                          <lom:string>Audio</lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <metadata>
+              <lom:lom>
+                <lom:general>
+                  <lom:title>
+                    <lom:string>Resources</lom:string>
+                  </lom:title>
+                  <lom:identifier>
+                    <lom:catalog>ISBN</lom:catalog>
+                    <lom:entry></lom:entry>
+                  </lom:identifier>
+                  <lom:description>
+                    <lom:string language="en-UK"></lom:string>
+                  </lom:description>
+                </lom:general>
+                <lom:classification>
+                  <lom:purpose>
+                    <lom:source>LOMv1.0</lom:source>
+                    <lom:value>prerequisite</lom:value>
+                  </lom:purpose>
+                  <lom:taxonPath>
+                    <lom:taxon>
+                      <lom:id>Short Title</lom:id>
+                      <lom:entry>
+                        <lom:string></lom:string>
+                      </lom:entry>
+                    </lom:taxon>
+                  </lom:taxonPath>
+                </lom:classification>
+              </lom:lom>
+            </metadata>
+          </item>
+          <item identifier="dc97324a-a1fe-3aff-af7e-c15a6bb063fd">
+            <title><![CDATA[Tests]]></title>
+            <item identifier="f4d2ff1a-e9a9-3857-aaee-3d0985edd02b" identifierref="creq9303652d753adeda0b04fe442334">
+              <title><![CDATA[Test Document No. 1]]></title>
+              <metadata>
+                <lom:lom>
+                  <lom:general>
+                    <lom:title>
+                      <lom:string>Test Document No. 1</lom:string>
+                    </lom:title>
+                    <lom:identifier>
+                      <lom:catalog>ISBN</lom:catalog>
+                      <lom:entry></lom:entry>
+                    </lom:identifier>
+                    <lom:description>
+                      <lom:string language="en-UK"></lom:string>
+                    </lom:description>
+                  </lom:general>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Short Title</lom:id>
+                        <lom:entry>
+                          <lom:string></lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                  <lom:classification>
+                    <lom:purpose>
+                      <lom:source>LOMv1.0</lom:source>
+                      <lom:value>prerequisite</lom:value>
+                    </lom:purpose>
+                    <lom:taxonPath>
+                      <lom:taxon>
+                        <lom:id>Resource Type</lom:id>
+                        <lom:entry>
+                          <lom:string>Document</lom:string>
+                        </lom:entry>
+                      </lom:taxon>
+                    </lom:taxonPath>
+                  </lom:classification>
+                </lom:lom>
+              </metadata>
+            </item>
+            <metadata>
+              <lom:lom>
+                <lom:general>
+                  <lom:title>
+                    <lom:string>Tests</lom:string>
+                  </lom:title>
+                  <lom:identifier>
+                    <lom:catalog>ISBN</lom:catalog>
+                    <lom:entry></lom:entry>
+                  </lom:identifier>
+                  <lom:description>
+                    <lom:string language="en-UK"></lom:string>
+                  </lom:description>
+                </lom:general>
+                <lom:classification>
+                  <lom:purpose>
+                    <lom:source>LOMv1.0</lom:source>
+                    <lom:value>prerequisite</lom:value>
+                  </lom:purpose>
+                  <lom:taxonPath>
+                    <lom:taxon>
+                      <lom:id>Short Title</lom:id>
+                      <lom:entry>
+                        <lom:string></lom:string>
+                      </lom:entry>
+                    </lom:taxon>
+                  </lom:taxonPath>
+                </lom:classification>
+              </lom:lom>
+            </metadata>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="zndgdec5f7e9d866b30f084039ab5505" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/zndgdec5f7e9d866b30f084039ab5505.xml"></file>
+    </resource>
+    <resource identifier="vlmwe968d15ecd71951abf53a331539a" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/vlmwe968d15ecd71951abf53a331539a.xml"></file>
+    </resource>
+    <resource identifier="clie14f901d42d6d8fe62b5bdc58b0aa" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/clie14f901d42d6d8fe62b5bdc58b0aa.xml"></file>
+    </resource>
+    <resource identifier="vpxi14c38b6f0d1925786f7bc447bf7e" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/vpxi14c38b6f0d1925786f7bc447bf7e.xml"></file>
+    </resource>
+    <resource identifier="ucpk4f3d822e520f1e1c8c507fc2151b" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/ucpk4f3d822e520f1e1c8c507fc2151b.xml"></file>
+    </resource>
+    <resource identifier="creq9303652d753adeda0b04fe442334" type="imsbasiclti_xmlv1p0">
+      <file href="web_resources/creq9303652d753adeda0b04fe442334.xml"></file>
+    </resource>
+  </resources>
+</manifest>

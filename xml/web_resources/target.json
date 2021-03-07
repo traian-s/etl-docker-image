@@ -1,0 +1,729 @@
+[
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000003",
+        "title": "Headway Imported",
+        "level": "Pre-intermediate",
+        "cefrLevel": "B1",
+        "resourceFolders": {
+            "resources": {
+                "studentsBookAudio": {
+                    "title": "Student's Audio Book",
+                    "resources": [
+                        "7c5ae736ce8039508493b62a50170b9d",
+                        "72a5408bfe89c31d46d3df602fee4bb7",
+                        "1d661e963339a067ea3c2e9592b92511",
+                        "ed1cf7e7b15aebb15e473962a709b657",
+                        "deeaa20d5afa533699862e6d81972da5",
+                        "c9e890295b9626d8ec8a900ee3f73434"
+                    ]
+                },
+                "videoAndWorksheets": {
+                    "title": "Video and worksheets",
+                    "resources": [
+                        "7c5ae736ce8039508493b62a50170b9d",
+                        "72a5408bfe89c31d46d3df602fee4bb7",
+                        "1d661e963339a067ea3c2e9592b92511",
+                        "ed1cf7e7b15aebb15e473962a709b657",
+                        "deeaa20d5afa533699862e6d81972da5"
+                    ]
+                },
+                "photocopiableActivities": {
+                    "title": "Photocopiable Activities",
+                    "resources": [
+                        "ed1cf7e7b15aebb15e473962a709b657"
+                    ]
+                },
+                "answerKeys": {
+                    "title": "Answer keys",
+                    "resources": [
+                        "7c5ae736ce8039508493b62a50170b9d"
+                    ]
+                },
+                "uncategorized": {
+                    "title": "Other Resources",
+                    "resources": [
+                        "deeaa20d5afa533699862e6d81972da5",
+                        "7c5ae736ce8039508493b62a50170b9d"
+                    ]
+                },
+                "additionalResources": [
+                    {
+                        "title": "Oxford Teachers' Club",
+                        "url": "https://elt.oup.com/teachers/headway/?cc=ro&selLanguage=en",
+                        "requireLogin": true
+                    },
+                    {
+                        "title": "Headway Student's Site",
+                        "url": "https://elt.oup.com/student/headway/preint4/?cc=ro&selLanguage=en",
+                        "requireLogin": false
+                    }
+                ]
+            },
+            "tests": {
+                "studentsBookAudiotest3": {
+                    "title": "Student's Audio Book test1",
+                    "resources": [
+                        "0a02f447b333f865401c1c9d37aabf22"
+                    ]
+                },
+                "videoAndWorksheetstest4": {
+                    "title": "Video and worksheets tes2",
+                    "resources": [
+                        "gfdgdfgdff1124368569866"
+                    ]
+                }
+            }
+        },
+        "resources": {
+            "7c5ae736ce8039508493b62a50170b9d": {
+                "resourceId": "7c5ae736ce8039508493b62a50170b9d",
+                "title": "Video: New 10/30/2020 ",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "72a5408bfe89c31d46d3df602fee4bb7": {
+                "resourceId": "72a5408bfe89c31d46d3df602fee4bb7",
+                "title": "Video: Headway Teacher's Site ",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MKV"
+            },
+            "1d661e963339a067ea3c2e9592b92511": {
+                "resourceId": "1d661e963339a067ea3c2e9592b92511",
+                "title": "Video: Headway Teacher's Site 2",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MOV"
+            },
+            "ed1cf7e7b15aebb15e473962a709b657": {
+                "resourceId": "ed1cf7e7b15aebb15e473962a709b657",
+                "title": "Headway Teacher's Site 3",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "deeaa20d5afa533699862e6d81972da5": {
+                "resourceId": "deeaa20d5afa533699862e6d81972da5",
+                "title": "(UAT) Video: Treetops Bronze 3 Classroom Language - Track 03.12",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "c9e890295b9626d8ec8a900ee3f73434": {
+                "resourceId": "c9e890295b9626d8ec8a900ee3f73434",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.39",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "c5cebfdfbe835483185e31fdff2ec926": {
+                "resourceId": "c5cebfdfbe835483185e31fdff2ec926",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.40",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "4b74991e170184af3a5fe4379843b5cf": {
+                "resourceId": "4b74991e170184af3a5fe4379843b5cf",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.33",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "0931370c78f306a1c70de596b5c783b6": {
+                "resourceId": "0931370c78f306a1c70de596b5c783b6",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.13",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "0a02f447b333f865401c1c9d37aabf22": {
+                "resourceId": "0a02f447b333f865401c1c9d37aabf22",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.36",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "gfdgdfgdff1124368569866": {
+                "resourceId": "gfdgdfgdff1124368569866",
+                "title": "Simple title 3",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "file",
+                "format": "PDF"
+            },
+            "65343r2cfadasdasdasdadsa": {
+                "resourceId": "65343r2cfadasdasdasdadsa",
+                "title": "Simple title 2",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": false,
+                "type": "multipleFiles",
+                "format": "FOLDER"
+            }
+        },
+        "image": {
+            "title": "Headway. Pre-intermediate",
+            "altText": "Headway. Pre-intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771917",
+                "9780194771849"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9780194771917"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000004",
+        "title": "Headway 1",
+        "level": "Intermediate",
+        "cefrLevel": "C1",
+        "resourceFolders": {
+            "resources": {
+                "uncategorized": {
+                    "title": "Other Resources",
+                    "resources": [
+                        "deeaa20d5afa533699862e6d81972da5",
+                        "72a5408bfe89c31d46d3df602fee4bb7",
+                        "7c5ae736ce8039508493b62a50170b9d"
+                    ]
+                }
+            },
+            "tests": {
+                "studentsBookAudiotest3": {
+                    "title": "Student's Audio Book test1",
+                    "resources": [
+                        "7c5ae736ce8039508493b62a50170b9d"
+                    ]
+                },
+                "videoAndWorksheetstest4": {
+                    "title": "Video and worksheets tes2",
+                    "resources": [
+                        "72a5408bfe89c31d46d3df602fee4bb7"
+                    ]
+                },
+                "uncategorized": {
+                    "title": "Other Resources",
+                    "resources": [
+                        "72a5408bfe89c31d46d3df602fee4bb7",
+                        "7c5ae736ce8039508493b62a50170b9d"
+                    ]
+                }
+            }
+        },
+        "resources": {
+            "7c5ae736ce8039508493b62a50170b9d": {
+                "resourceId": "7c5ae736ce8039508493b62a50170b9d",
+                "title": "Video: New 10/30/2020 ",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "72a5408bfe89c31d46d3df602fee4bb7": {
+                "resourceId": "72a5408bfe89c31d46d3df602fee4bb7",
+                "title": "Video: Headway Teacher's Site ",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MKV"
+            },
+            "1d661e963339a067ea3c2e9592b92511": {
+                "resourceId": "1d661e963339a067ea3c2e9592b92511",
+                "title": "Video: Headway Teacher's Site 2",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MOV"
+            },
+            "ed1cf7e7b15aebb15e473962a709b657": {
+                "resourceId": "ed1cf7e7b15aebb15e473962a709b657",
+                "title": "Headway Teacher's Site 3",
+                "url": "",
+                "targetUserType": "teacher",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "deeaa20d5afa533699862e6d81972da5": {
+                "resourceId": "deeaa20d5afa533699862e6d81972da5",
+                "title": "(UAT) Video: Treetops Bronze 3 Classroom Language - Track 03.12",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "video",
+                "format": "MP4"
+            },
+            "c9e890295b9626d8ec8a900ee3f73434": {
+                "resourceId": "c9e890295b9626d8ec8a900ee3f73434",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.39",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "c5cebfdfbe835483185e31fdff2ec926": {
+                "resourceId": "c5cebfdfbe835483185e31fdff2ec926",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.40",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "4b74991e170184af3a5fe4379843b5cf": {
+                "resourceId": "4b74991e170184af3a5fe4379843b5cf",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.33",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "0931370c78f306a1c70de596b5c783b6": {
+                "resourceId": "0931370c78f306a1c70de596b5c783b6",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.13",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "0a02f447b333f865401c1c9d37aabf22": {
+                "resourceId": "0a02f447b333f865401c1c9d37aabf22",
+                "title": "(UAT) Audio: Treetops Bronze 3 Classroom Language - Track 03.36",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "audio",
+                "format": "MP3"
+            },
+            "gfdgdfgdff1124368569866": {
+                "resourceId": "gfdgdfgdff1124368569866",
+                "title": "Simple title 3",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": true,
+                "type": "file",
+                "format": "PDF"
+            },
+            "65343r2cfadasdasdasdadsa": {
+                "resourceId": "65343r2cfadasdasdasdadsa",
+                "title": "Simple title 2",
+                "url": "",
+                "targetUserType": "student",
+                "action": "download",
+                "canBePreviewed": false,
+                "type": "multipleFiles",
+                "format": "FOLDER"
+            }
+        },
+        "image": {
+            "title": "Headway. Intermediate",
+            "altText": "Headway. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771870"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9780194771870"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000005",
+        "title": "Headway 2",
+        "level": "Post Intermediate",
+        "cefrLevel": "C2",
+        "image": {
+            "title": "Headway. Intermediate",
+            "altText": "Headway. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771887"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": []
+        }
+    },
+    {
+        "id": "american-english-file-start",
+        "title": "American English File",
+        "level": "Starter",
+        "cefrLevel": "A1",
+        "resourceFolders": {
+            "resources": {
+                "studentsBookAudio": {
+                    "title": "Student's Audio Book",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d"
+                    ]
+                },
+                "videoAndWorksheets": {
+                    "title": "Video and worksheets",
+                    "resources": [
+                        "99999"
+                    ]
+                },
+                "additionalResources": [
+                    {
+                        "title": "Oxford Teachers' Club",
+                        "url": "https://elt.oup.com/teachers/headway/?cc=ro&selLanguage=en",
+                        "requireLogin": true
+                    }
+                ]
+            },
+            "tests": {
+                "studentsBookAudiotest3": {
+                    "title": "Student's Audio Book test1",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d"
+                    ]
+                },
+                "videoAndWorksheetstest4": {
+                    "title": "Video and worksheets tes2",
+                    "resources": [
+                        "99999"
+                    ]
+                }
+            },
+            "mock": {
+                "uncategorized": {
+                    "title": "Other Resources",
+                    "resources": [
+                        "99999",
+                        "11b3138ddaf1196247b214785f769c0d"
+                    ]
+                }
+            }
+        },
+        "resources": {
+            "99999": {
+                "resourceId": "99999",
+                "title": "Headway Teacher's Site",
+                "url": "https://elt.oup.com/teachers/headway/?cc=gb&selLanguage=en&mode=hub",
+                "targetUserType": "teacher",
+                "action": "open"
+            },
+            "11b3138ddaf1196247b214785f769c0d": {
+                "resourceId": "11b3138ddaf1196247b214785f769c0d",
+                "title": "(UAT) Treetops Gold 1 Classroom Language - Track 03.31",
+                "url": "http://localhost:7800/ces/lti/consumer?product=lor&resourceId=11b3138ddaf1196247b214785f769c0d",
+                "targetUserType": "student",
+                "action": "download"
+            }
+        },
+        "image": {
+            "title": "American English File. Starter",
+            "altText": "American English File. Starter",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771917"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": []
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000007",
+        "title": "American English File",
+        "level": "Pre-Intermediate",
+        "cefrLevel": "A2",
+        "resourceFolders": {
+            "resources": {
+                "studentsBookAudio": {
+                    "title": "Student's Audio Book",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "videoAndWorksheets": {
+                    "title": "Video and worksheets",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "photocopiableActivities": {
+                    "title": "Photocopiable Activities",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "answerKeys": {
+                    "title": "     Answer keys",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "additionalResources": [
+                    {
+                        "title": "Headway Student's Site",
+                        "url": "https://elt.oup.com/student/headway/preint4/?cc=ro&selLanguage=en",
+                        "requireLogin": false
+                    }
+                ]
+            }
+        },
+        "resources": {
+            "99999": {
+                "resourceId": "99999",
+                "title": "Headway Teacher's Site",
+                "url": "https://elt.oup.com/teachers/headway/?cc=gb&selLanguage=en&mode=hub",
+                "targetUserType": "teacher",
+                "action": "open"
+            },
+            "11b3138ddaf1196247b214785f769c0d": {
+                "resourceId": "11b3138ddaf1196247b214785f769c0d",
+                "title": "(UAT) Treetops Gold 1 Classroom Language - Track 03.31",
+                "url": "http://localhost:7800/ces/lti/consumer?product=lor&resourceId=11b3138ddaf1196247b214785f769c0d",
+                "targetUserType": "student",
+                "action": "download"
+            }
+        },
+        "image": {
+            "title": "American English File. Starter",
+            "altText": "American English File. Starter",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771917"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9780194771917"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000008",
+        "title": "Oxford Leading Sustainable Corporations Programme",
+        "level": "Pre-Intermediate",
+        "cefrLevel": "B1",
+        "resourceFolders": {
+            "resources": {
+                "studentsBookAudio": {
+                    "title": "Student's Audio Book",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "videoAndWorksheets": {
+                    "title": "Video and worksheets",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "photocopiableActivities": {
+                    "title": "Photocopiable Activities",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                },
+                "answerKeys": {
+                    "title": "     Answer keys",
+                    "resources": [
+                        "11b3138ddaf1196247b214785f769c0d",
+                        "99999"
+                    ]
+                }
+            }
+        },
+        "resources": {
+            "99999": {
+                "resourceId": "99999",
+                "title": "Headway Teacher's Site",
+                "url": "https://elt.oup.com/teachers/headway/?cc=gb&selLanguage=en&mode=hub",
+                "targetUserType": "teacher",
+                "action": "open"
+            },
+            "11b3138ddaf1196247b214785f769c0d": {
+                "resourceId": "11b3138ddaf1196247b214785f769c0d",
+                "title": "(UAT) Treetops Gold 1 Classroom Language - Track 03.31",
+                "url": "http://localhost:7800/ces/lti/consumer?product=lor&resourceId=11b3138ddaf1196247b214785f769c0d",
+                "targetUserType": "student",
+                "action": "download"
+            }
+        },
+        "image": {
+            "title": "Oxford Leading Sustainable Corporations Programme. Intermediate",
+            "altText": "Oxford Leading Sustainable Corporations Programme. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771887"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9780194771887"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000009",
+        "title": "Oxford Women's Leadership Development Programme",
+        "level": "Advanced",
+        "cefrLevel": "C1",
+        "image": {
+            "title": "Oxford Women's Leadership Development Programme. Intermediate",
+            "altText": "Oxford Women's Leadership Development Programme. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194771887"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": []
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000010",
+        "title": "Oxford Readers collection",
+        "level": "Advanced",
+        "cefrLevel": "C1",
+        "image": {
+            "title": "Oxford Readers collection. Intermediate",
+            "altText": "Oxford Readers collection. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9000000000010"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9000000000010"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000011",
+        "title": "Oxford New Course 2020",
+        "level": "Advanced",
+        "cefrLevel": "C1",
+        "image": {
+            "title": "Oxford New Course 2020. Intermediate",
+            "altText": "Oxford New Course 2020. Intermediate",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "9780194629768",
+                "9780194240031"
+            ]
+        },
+        "productsWithAdditionalResources": {
+            "allIds": [
+                "9780194240031"
+            ]
+        }
+    },
+    {
+        "id": "0000aa00-0a00-00a0-aa00-000a0a000012",
+        "title": "Course with VST Products",
+        "level": "Advanced",
+        "cefrLevel": "C1",
+        "image": {
+            "title": "Course with VST Products",
+            "altText": "Course with VST Products",
+            "defaultUrl": "https://dev.account.oup.com/media/hub/course-headway-pre-intermediate.jpg"
+        },
+        "products": {
+            "allIds": [
+                "4810048071742",
+                "0107561129125",
+                "8881581726128",
+                "1112278491795",
+                "4810398071742",
+                "2325622108956",
+                "6854954977506",
+                "9780194049412",
+                "9780194546690",
+                "9780194906616",
+                "9780194906074",
+                "9780194904285",
+                "9780194904308",
+                "9780194904278",
+                "9780194524063"
+            ]
+        }
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.6.1",
+    "rimraf": "^3.0.2",
+    "xml-js": "^1.6.11",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "convert": "xml-js ./xml/imsmanifest.xml --spaces 4",
+    "process-cartridge": "node processCartridge.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
